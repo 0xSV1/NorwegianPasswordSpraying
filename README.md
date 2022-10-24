@@ -7,7 +7,7 @@ The unmodified lists can used with tools such as [psudohash](https://github.com/
 for i in $(cat helligdager.txt); do echo ${i}1; echo ${i}123; echo ${i}2022; echo ${i}2022\!; echo ${i}22; echo ${i}22\!; echo ${i}@2022; echo ${i}@22; echo ${i}\!22; echo ${i}\!2022; done > helligdager_appended.txt
 ```
 
-### Årstider:
+### Seasons/Årstider:
 ```
 Vår
 Var
@@ -27,7 +27,7 @@ Vinter
 Vinteren
 ```
 
-### Måneder:
+### Months/Måneder:
 ```
 Januar
 Februar
@@ -43,7 +43,7 @@ November
 Desember
 ```
 
-### Høytider/helligdager:
+### Holidays/Høytider/helligdager:
 ```
 Nyttår
 Nyttar
@@ -113,26 +113,26 @@ Midtvinter
 Midtvinterfest
 ```
 
-## Kommaseparert:
+## Comma separated/Kommaseparert:
 
-### Årstider:
+### Seasons/Årstider:
 ```
 Vår,Var,Vaar,Våren,Varen,Vaaren,Sommer,Sommeren,Høst,Host,Hoest,Høsten,Hosten,Hoesten,Vinter,Vinteren
 ```
 
-### Måneder:
+### Months/Måneder:
 ```
 Januar,Februar,Mars,April,Mai,Juni,Juli,August,September,Oktober,November,Desember
 ```
 
-### Høytider/helligdager:
+### Holidays/Høytider/Helligdager:
 ```
 Nyttår,Nyttar,Nyttaar,Helligtrekongersdag,Valentin,Valentine,Valentines,Valentinsdag,Fastelavn,Fastelaven,Kvinnedagen,Påske,Paske,Paaske,Palmesøndag,Palmesondag,Palmesoendag,Skjærtorsdag,Skjaertorsdag,Langfredag,Påskedagen,Paskedagen,Paaskedagen,Påskeaften,Paskeaften,Paaskeaften,Maidagen,Førstemai,Forstemai,Foerstemai,Morsdag,Kristihimmelfartsdag,Syttendemai,Grunnlovsdag,Grunnlovsdagen,Pinse,Treenighetssøndag,Treenighetssondag,Treenighetssoendag,Sankthans,Sankthansaften,Olsok,Allehelgensaften,Allehelgensdag,Halloween,Høsttakkefest,Hosttakkefest,Hoesttakkefest,Thanksgiving,Thanksgivingday,Farsdag,Mannsdagen,Mannedagen,Bededag,Advent,Førjulstiden,Forjulstiden,Foerjulstiden,Lucia,Luciadagen,Lucienatt,Lussimess,Jul,Julaften,Midtvinter,Midtvinterfest
 ```
 
-## Vanlige passord mutasjoner:
+## Usual password mutations/Vanlige passord mutasjoner:
 
-### Vår:
+### Spring/Vår:
 ```
 Vår1
 Var1
@@ -196,7 +196,7 @@ Varen@22
 Vaaren@22
 ```
 
-### Sommer:
+### Summer/Sommer:
 ```
 Sommer1
 Sommeren1
@@ -220,7 +220,7 @@ Sommer!2022
 Sommeren!2022
 ```
 
-### Høst:
+### Autum/Høst:
 ```
 Høst1
 Host1
@@ -284,7 +284,7 @@ Hosten!2022
 Hoesten!2022
 ```
 
-### Vinter:
+### Winter/Vinter:
 ```
 Vinter1
 Vinteren1
@@ -308,7 +308,7 @@ Vinter!2022
 Vinteren!2022
 ```
 
-### Måneder:
+### Months/Måneder:
 ```
 Januar
 Februar
@@ -324,7 +324,7 @@ November
 Desember
 ```
 
-### Januar:
+### January/Januar:
 ```
 Januar1
 Januar123
@@ -338,7 +338,7 @@ Januar!22
 Januar!2022
 ```
 
-### Februar:
+### February/Februar:
 ```
 Februar1
 Februar123
@@ -352,7 +352,7 @@ Februar!22
 Februar!2022
 ```
 
-### Mars:
+### March/Mars:
 ```
 Mars1
 Mars123
@@ -380,7 +380,7 @@ April!22
 April!2022
 ```
 
-### Mai:
+### May/Mai:
 ```
 Mai1
 Mai123
@@ -394,7 +394,7 @@ Mai!22
 Mai!2022
 ```
 
-### Juni:
+### June/Juni:
 ```
 Juni1
 Juni123
@@ -408,7 +408,7 @@ Juni!22
 Juni!2022
 ```
 
-### Juli:
+### July/Juli:
 ```
 Juli1
 Juli123
@@ -450,7 +450,7 @@ September!22
 September!2022
 ```
 
-### Oktober:
+### October/Oktober:
 ```
 Oktober1
 Oktober123
@@ -478,7 +478,7 @@ November!22
 November!2022
 ```
 
-### Desember:
+### December/Desember:
 ```
 Desember1
 Desember123
